@@ -80,6 +80,10 @@ NPM 依赖补全
 
 CSS 类名补全
 
+### increment-selection
+
+编辑或是插入递增数据
+
 ### 待定
 
 Debugger for Chrome: 可以在 Chrome 浏览器中对 JavaScript 代码进行调试

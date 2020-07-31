@@ -84,6 +84,8 @@ CSS 类名补全
 
 编辑或是插入递增数据
 
+选中 -> ctrl + alt + I
+
 ### 待定
 
 Debugger for Chrome: 可以在 Chrome 浏览器中对 JavaScript 代码进行调试

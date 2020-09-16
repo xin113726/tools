@@ -1,10 +1,3 @@
-## VSCode
-
-[VSCode 插件](https://github.com/xin113726/tools/issues/1)
-
-[VSCode 快捷键](https://github.com/xin113726/tools/issues/2)
-
-### 快捷键
 
 ## snipaste
 

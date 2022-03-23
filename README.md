@@ -14,3 +14,15 @@ F3：贴图
 跨平台播放器
 
 [官网](https://mpv.io/)
+
+## Everything
+
+基于名称快速定位文件和文件夹
+
+[中文官网](https://www.voidtools.com/zh-cn/)
+
+## FastStone Capture
+
+屏幕捕获工具和屏幕录像机
+
+[官网](https://www.faststone.org/FSCaptureDetail.htm)

@@ -25,4 +25,4 @@ F3：贴图
 
 屏幕捕获工具和屏幕录像机
 
-[官网](https://www.faststone.org/FSCaptureDetail.htm)
+[中文官网](https://www.faststonecapture.cn/)
